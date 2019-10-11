@@ -1,0 +1,40 @@
+.Greeting-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+  text-align: center;
+  font-size: 1.6rem;
+  border: 5px solid red;
+}
+
+.welcome-header {
+  font-size: 4rem;
+  margin: 10px 50px;
+  line-height: 1.2;
+}
+
+.great-things-header {
+  font-size: 3rem;
+  margin: 20px 50px;
+}
+
+.check-back-header {
+  font-size: 2.7rem;
+  margin: 20px 50px;
+}
+
+.meantime-header {
+  font-size: 2rem;
+  margin: 20px 50px;
+}
+
+.emoji-span {
+  font-size: 4rem;
+  padding: 0 10px;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+}

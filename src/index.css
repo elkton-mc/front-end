@@ -1,4 +1,4 @@
-/*-----------------START OF CSS RESET-----------------*/
+/*-----------------CSS RESET-----------------*/
 /*
   http://meyerweb.com/eric/tools/css/reset/ 
   v2.0 | 20110126
@@ -128,8 +128,8 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
-/*-----------------END OF CSS RESET-----------------*/
 
+/*-----------------GLOBAL STYLES-----------------*/
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -137,4 +137,6 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-size: 62.5%;
+  box-sizing: border-box;
 }
