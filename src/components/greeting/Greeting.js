@@ -6,8 +6,7 @@ export default function Greeting() {
   return (
     <div className='Greeting-container'>
       <h1 className='welcome-header'>
-        Welcome to the *NEW*
-        <br />
+        Welcome to the <br />{' '}
         <span
           className='emoji-span'
           role='img'
@@ -15,15 +14,16 @@ export default function Greeting() {
         >
           ⛪
         </span>{' '}
-        Elkton Missionary Church{' '}
+        *NEW*{' '}
         <span
           className='emoji-span'
           role='img'
           aria-label='Praying Hands Emoji'
         >
           🙏🏻
-        </span>{' '}
-        <br /> Website!
+        </span>
+        <br />
+        Elkton Missionary Church <br /> Website!
       </h1>
       <h2 className='great-things-header'>
         <span
@@ -33,7 +33,7 @@ export default function Greeting() {
         >
           😬
         </span>
-        Unfortunately, great things take time.
+        Thank you for your patience while we spruce up the place.
         <span
           className='emoji-span'
           role='img'
@@ -50,7 +50,7 @@ export default function Greeting() {
         >
           😅
         </span>
-        Check back soon for the launch
+        We hope you check back soon for the launch
         <span className='emoji-span' role='img' aria-label='Rocketship emoji'>
           🚀
         </span>
