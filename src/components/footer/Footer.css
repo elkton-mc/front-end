@@ -2,11 +2,24 @@
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
-  border: 5px solid blue;
-  height: 10vh;
+  height: 15vh;
 }
 
-.Footer-text {
-  font-size: 1rem;
+.footer-text {
+  font-size: 1.4rem;
   margin: 0 auto 10px;
+  color: white;
+  margin: 20px;
+}
+
+.footer-link-maintained:hover {
+  cursor: pointer;
+  background-color: #3fc638;
+  color: white;
+}
+
+.footer-link-tico:hover {
+  cursor: pointer;
+  background-color: blue;
+  color: white;
 }

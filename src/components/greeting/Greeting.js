@@ -33,7 +33,7 @@ export default function Greeting() {
         >
           😬
         </span>
-        Thank you for your patience while we spruce up the place.
+        Unfortunately, great things take time.
         <span
           className='emoji-span'
           role='img'
@@ -50,7 +50,7 @@ export default function Greeting() {
         >
           😅
         </span>
-        We hope you check back soon for the launch
+        Please check back soon for the launch
         <span className='emoji-span' role='img' aria-label='Rocketship emoji'>
           🚀
         </span>
