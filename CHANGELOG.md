@@ -7,15 +7,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [1.0.0] - 2017-06-20
-
-### Added
-
-- Users will be able to create their own 'church member' accounts.
-- With a username and password, users will be able to login to see information that is only accessible with authentication.
-- While logged in, users will be able to access a Church directory containing contact information of other users.
-- Users will also be able to log out with the click of a button.
-
 ## [0.0.1] - 2019-10-11
 
 ### Added
@@ -36,4 +27,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Any unncessary boilerplate code from the default react-app.
 
+[unreleased]: https://github.com/elkton-mc/front-end/commits/development
 [0.0.1]: https://github.com/elkton-mc/front-end/releases/tag/v0.0.1
