@@ -39,15 +39,18 @@
   vertical-align: bottom;
 }
 
-a {
+.greeting-link-here {
   text-decoration: none;
-  color: white;
+  color: #e60000;
+  padding: 5px;
 }
 
-a:hover {
+.greeting-link-here:hover {
   background-color: #e60000;
   cursor: pointer;
   color: white;
+  border-radius: 3px;
+  padding: 5px;
 }
 
 /* The animation */

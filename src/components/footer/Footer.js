@@ -10,18 +10,11 @@ export default function Footer() {
         <a
           className='footer-link-maintained'
           href='https://github.com/elkton-mc'
-          target='_blank'
-          rel='noopener noreferrer'
         >
           Maintained
         </a>{' '}
         by{' '}
-        <a
-          className='footer-link-tico'
-          href='https://hellotico.com'
-          target='_blank'
-          rel='noopener noreferrer'
-        >
+        <a className='footer-link-tico' href='https://hellotico.com'>
           Tico S. Thepsourinthone
         </a>{' '}
         © 2019

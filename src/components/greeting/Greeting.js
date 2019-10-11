@@ -72,7 +72,7 @@ export default function Greeting() {
         >
           👉🏻
         </span>
-        <a href='http://elktonmc.com' target='_blank' rel='noopener noreferrer'>
+        <a className='greeting-link-here' href='http://elktonmc.com'>
           here
         </a>
         !
