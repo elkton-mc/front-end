@@ -6,31 +6,30 @@ export default function Greeting() {
   return (
     <div className='Greeting-container'>
       <h1 className='welcome-header'>
-        Welcome to the *REVAMPED*
+        Welcome to the *NEW*
         <br />
-        Elkton Missionary{' '}
         <span
           className='emoji-span'
           role='img'
-          aria-label='Church building emoji'
+          aria-label='Church Building Emoji'
         >
           ⛪
-        </span>
-        Church
+        </span>{' '}
+        Elkton Missionary Church{' '}
         <span
           className='emoji-span'
           role='img'
-          aria-label='Praying hands emoji'
+          aria-label='Praying Hands Emoji'
         >
           🙏🏻
         </span>{' '}
-        Website!
+        <br /> Website!
       </h1>
       <h2 className='great-things-header'>
         <span
           className='emoji-span'
           role='img'
-          aria-label='Clenched teeth face emoji'
+          aria-label='Clenched Teeth Face Emoji'
         >
           😬
         </span>
@@ -38,7 +37,7 @@ export default function Greeting() {
         <span
           className='emoji-span'
           role='img'
-          aria-label='Man shrugging emoji'
+          aria-label='Man Shrugging Emoji'
         >
           🤷🏻‍♂️
         </span>
@@ -47,7 +46,7 @@ export default function Greeting() {
         <span
           className='emoji-span'
           role='img'
-          aria-label='Nervous drop of sweat face emoji'
+          aria-label='Nervous-Sweat Face Emoji'
         >
           😅
         </span>
@@ -59,13 +58,20 @@ export default function Greeting() {
         <span
           className='emoji-span'
           role='img'
-          aria-label='Celebration face emoji'
+          aria-label='Birthday Celebration Face Emoji'
         >
           🥳
         </span>
       </h3>
       <h4 className='meantime-header'>
         In the meantime, check out our current website{' '}
+        <span
+          className='emoji-span pointing-emoji'
+          role='img'
+          aria-label='Right-Pointing Hand Emoji'
+        >
+          👉🏻
+        </span>
         <a href='http://elktonmc.com' target='_blank' rel='noopener noreferrer'>
           here
         </a>
