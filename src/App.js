@@ -16,6 +16,9 @@ function App() {
         <span role='img' aria-label='emoji'>
           🚀
         </span>
+        <span role='img' aria-label='emoji'>
+          🥳
+        </span>
       </h3>
     </div>
   );
