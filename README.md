@@ -1,165 +1,186 @@
-🚫 Note: All lines that start with 🚫 are instructions and should be deleted before this is posted to your portfolio. This is intended to be a guideline, feel free to add your own flare to it.
+<a href="https://elktonmc.live/">
+    <img src="./src/assets/emc-logo-wide.png" title="EMC Logo" width="200" align="right">
+</a>
 
-🚫 The numbers 1️⃣ through 5️⃣ next to each item represent the week that part of the docs needs to be comepleted by. Make sure to delete the numbers by the end of Labs.
+# The Elkton Missionary Church (EMC) Web App
 
-🚫 Each student has a required minimum number of meaningful PRs each week per the rubric. Contributing to docs does NOT count as a PR to meet your weekly requirements.
-
-# 1️⃣ Title of project goes here
-
-1️⃣ You can find the deployed project at [🚫URL NAME GOES HERE](🚫copy and paste URL here).
-
-## 4️⃣ Contributors
-
-🚫Add contributor info below, make sure add images and edit the social links for each member. Add to or delete these place-holders as needed
-
-|                                                      [Student 1](https://github.com/)                                                       |                                                       [Student 2](https://github.com/)                                                        |                                                      [Student 3](https://github.com/)                                                       |                                                       [Student 4](https://github.com/)                                                        |                                                      [Student 5](https://github.com/)                                                       |
-| :-----------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: |
-| [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-male.png" width = "200" />](https://github.com/) | [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-female.png" width = "200" />](https://github.com/) | [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-male.png" width = "200" />](https://github.com/) | [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-female.png" width = "200" />](https://github.com/) | [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-male.png" width = "200" />](https://github.com/) |
-|                                [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/)                                |                            [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/honda0306)                             |                          [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/Mister-Corn)                           |                          [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/NandoTheessen)                           |                           [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/wvandolah)                            |
-|                [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/)                |                 [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/)                 |                [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/)                |                 [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/)                 |                [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/)                |
-
-<br>
-<br>
-
-🚫 4️⃣ Optional examples of using images with links for your tech stack, make sure to change these to fit your project
-
-![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)
-![React](https://img.shields.io/badge/react-v16.7.0--alpha.2-blue.svg)
-![Typescript](https://img.shields.io/npm/types/typescript.svg?style=flat)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b5c4db1c-b10d-42c3-b157-3746edd9e81d/deploy-status)](netlify link goes in these parenthesis)
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-
-🚫 more info on using badges [here](https://github.com/badges/shields)
+![MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)
+![React](https://img.shields.io/badge/React-v16.9.0-blue.svg)
+[![GitHub issues](https://img.shields.io/github/issues/elkton-mc/front-end)](https://github.com/elkton-mc/front-end/issues)
+[![GitHub forks](https://img.shields.io/github/forks/elkton-mc/front-end)](https://github.com/elkton-mc/frontend/network)
+[![GitHub stars](https://img.shields.io/github/stars/elkton-mc/front-end)](https://github.com/elkton-mc/frontend/stargazers)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b5c4db1c-b10d-42c3-b157-3746edd9e81d/deploy-status)](https://elktonmc.live/)
 
 ## Project Overview
 
-1️⃣ [Trello Board](🚫add link to trello board here)
+The EMC web app was built to serve Jesus Christ, through the Elkton Missionary Church, in its mission to make disciples that make disciples.
 
-1️⃣ [Product Canvas](🚫add link to product canvas here)
+<br>
 
-1️⃣ [UX Design files](🚫add link to design files here) - 🚫 delete if not applicable
+## Contributors
 
-🚫 Replace lorem ipsum with a description of your project
+|                                                                                                               [Tico Thepsourinthone](https://hellotico.com)                                                                                                                |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [<img src="https://media.licdn.com/dms/image/C4E03AQGIjp9UmRoNXA/profile-displayphoto-shrink_200_200/0?e=1573084800&v=beta&t=p2pz2FMpiP7p40p6E2RHNglAjRz3HJI-W3vOUHAESuA" width= "110" height="auto" style="object-fit:cover; overflow:hidden;" />](https://hellotico.com) |
+|                                                                                           [<img src="https://github.com/favicon.ico" width="25"> ](https://github.com/ticotheps)                                                                                           |
+|                                                                         [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="25"> ](https://www.linkedin.com/in/ticotheps/)                                                                         |
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+<br>
+<br>
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+[EMC Web App Trello Board](https://trello.com/b/oRS2ZOGQ/emc-app)
 
-### 4️⃣ Key Features
+<p align="center">
+    <a href="https://trello.com/b/oRS2ZOGQ/emc-app">
+        <img src="./src/assets/emc_trello.png" alt="EMC App Trello Board" width="500">
+    </a>
+</p>
 
-- feature one
-- feature two
-- feature three
-- feature four
-- feature five
+<!-- [ENDRSD Release Canvas v1.0](https://www.notion.so/ENDRSD-v1-0-3e87edcf085e45dc993422f0668e0842)
 
-## 1️⃣ Tech Stack
+<p align="center">
+    <a href="https://www.notion.so/ENDRSD-v1-0-3e87edcf085e45dc993422f0668e0842">
+        <img src="https://res.cloudinary.com/endrsd/image/upload/v1568019704/release_canvas_1_sm4hdq.png" alt="ENDRSD Notion document release canvas v1.0" width="500">
+    </a>
+</p> -->
+
+<!-- ## Key Features
+
+- Church members can create their own user accounts and passwords
+- Users are able to login & logout to protect their contact information
+- With proper credentials, users are able to view the contact information of other Church members
+
+## Tech Stack
 
 ### Front end built using:
 
-#### _Front end framework goes here_
+#### React.js, React Hooks, & Redux
 
-🚫 Why did you choose this framework?
+- It comes with a good supply of documentation, tutorials, and training resources because of the well established community around it.
+- The use of components allows for modularity, leading to faster and more efficient development.
+- Components can house their own logic and controls.
+- Testing with React.js is very straight-forward and comes with great documentation.
 
-- point one
-- point two
-- point three
-- point four
+#### Front end deployed to [Netlify](https://elktonmc.live)
 
-🚫List the rest of the front end features and libraries in the same format as the framework above.
+#### [Back end](https://github.com/elkton-mc/back-end) built using:
 
-#### Front end deployed to `🚫insert service here`
+#### PostgreSQL
 
-#### [Back end](🚫link to back end repo here) built using:
+- PostgreSQL is a type of relational database that is open source and freely available for anyone to use.
+- SQL databases have a reputation for being more reliable because they have been tried and tested longer than their NoSQL counterparts.
+- The source code for PostgreSQL was developed by a large community that has created numerous online resources for support.
+- The strongly-typed schemas with a SQL database leave very little room for errors.
 
-#### 🚫 back end framework goes here
+#### Node.js
 
-- point one
-- point two
-- point three
+- Node.js offers easy scalability because it can handle a large number of simultaneous connections with high throughput.
+- Using node.js allows developers who are familiar with JavaScript, to develop both the client-side and server-side applications using a single programming language.
+- Node.js takes less time to learn because it utilizes an already popular client-side scripting language---JavaScript.
+- Support for node.js is readily available because of the large and active community behind it.
+- Node.js is able to take advantage of caching things within the application memory for faster load times.
 
-🚫 List the rest of the back end end features and libraries in the same format as the framework above
+#### Express.js
 
-# APIs
+- Express.js makes web application development with node.js fast and easy.
+- It is very easy to configure and customize express.js.
+- Express.js allows you to create a REST API server.
+- Allows you to define routes of your application based on HTTP methods and URLs.
 
-## 2️⃣ Authentication API here
+#### Knex.js
 
-🚫Replace text below with a description of the API
+- A SQL query builder that integrates well with a PostgreSQL database.
+- Allows for 'migrations', which makes it easier to manage tables within the PostgreSQL database.
+- It can create sequential files with timestamps and even manage table alterations.
+- Allows for the creation of 'seeds', which can be used to consistently populate the database.
 
-Water's like me. It's laaazy ... Boy, it always looks for the easiest way to do things A little happy sunlight shining through there. Let all these little things happen. Don't fight them. Learn to use them. Even the worst thing we can do here is good.
+# Authentication
 
-## 2️⃣ Payment API here
+#### JSON Web Tokens
 
-🚫Replace text below with a description of the API
+- A self-contained token which has authentication information, expiration information, and other user properties.
+- JWTs don't have sessions to manage (stateless).
+- No database table is required, which means fewer database queries.
+- Can be used across multiple services.
 
-This is the way you take out your flustrations. Get away from those little Christmas tree things we used to make in school. Isn't it fantastic that you can change your mind and create all these happy things? Everything's not great in life, but we can still find beauty in it.
+#### Bcrypt.js
 
-## 3️⃣ Misc API here
+- Protects against 'rainbow table attacks'.
+- Resistant to brute-force search attacks.
 
-🚫Replace text below with a description of the API
+# API Server URLs
 
-You can do anything your heart can imagine. In life you need colors. This is where you take out all your hostilities and frustrations. It's better than kicking the puppy dog around and all that so. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Trees get lonely too, so we'll give him a little friend. We'll lay all these little funky little things in there.
+- [Local Server URL](https://localhost:5000/api/v1)
+- [Staging Server URL](https://endrsd-api-staging.herokuapp.com/api/v1)
+- [Production Server URL](https://endrsd-api.herokuapp.com/api/v1)
 
-## 3️⃣ Misc API here
+# API Endpoints
 
-🚫Replace text below with a description of the API
+- GET `/api/v1/users/:userId`
+- GET `/api/v1/tracks`
+- GET `/api/v1/requirements`
+- GET `api/v1/requirements/:requirementsId/steps`
+- POST `/api/v1/users`
+- POST `/api/v1/login`
+- PUT `/api/v1/requirements/:requirementsId/steps`
 
-When you do it your way you can go anywhere you choose. Let your heart take you to wherever you want to be. If I paint something, I don't want to have to explain what it is. A tree needs to be your friend if you're going to paint him. That's a son of a gun of a cloud. Even the worst thing we can do here is good.
-
-## 3️⃣ Misc API here
-
-🚫Replace text below with a description of the API
-
-Volunteering your time; it pays you and your whole community fantastic dividends. Maybe there's a happy little waterfall happening over here. You can spend all day playing with mountains. We don't have to be committed. We are just playing here. You have freedom here. The only guide is your heart. It's cold, but it's beautiful.
-
-# 3️⃣ Environment Variables
+# Environment Variables
 
 In order for the app to function correctly, the user must set up their own environment variables. There should be a .env file containing the following:
 
-🚫These are just examples, replace them with the specifics for your app
+    *  JWT_SECRET=<your-secret-here>
+            -This can be any unique string of characters.
 
-    *  REACT_APP_apiKey - this is your Google API key, which can be generated in the Google Cloud Console
-    *  REACT_APP_authDomain - when you set up your Firebase project, this information will be in the dashboard
-    *  REACT_APP_databaseURL - in the Firebase dashboard
-    *  REACT_APP_projectID - in the Firebase dashboard
-    *  REACT_APP_storageBucket - in the Firebase dashboard
-    *  REACT_APP_messagingSenderId - in the Firebase dashboard
-    *  REACT_APP_stripe_API - this is your public Stripe API key, generated in the Stripe dashboard
-    *  REACT_APP_backendURL - optional for your local development server
-    *  REACT_APP_clientid - this is the Stripe_connect clientID, generated in Stripe_connect settings
-    *  REACT_APP_stripe_plan - this is the ID for a second Stripe subscription plan, generated under Stripe products
+    *  REACT_APP_STAGE=staging
+            -This must be included in the .env to utilize the staging database.
 
-# 5️⃣ Content Licenses
+    *  REACT_APP_STAGE=production
+            -This must be included in the .env to utilize the production database.
 
-🚫For all content - images, icons, etc, use this table to document permission of use. Remove the two placeholders and add you content to this table
+If no `REACT_APP_STAGE` environment variable is added to the `.env` file, the default local database on port 5000 will be utilized.
 
-| Image Filename | Source / Creator | License                                                                      |
-| -------------- | ---------------- | ---------------------------------------------------------------------------- |
-| doodles.png    | Nicole Bennett   | [Creative Commons](https://www.toptal.com/designers/subtlepatterns/doodles/) |
-| rings.svg      | Sam Herbert      | [MIT](https://github.com/SamHerbert/SVG-Loaders)                             |
+# Installation Instructions
 
-# 4️⃣ Testing
+After cloning this repo on to your local machine, use the package manager [yarn](https://yarnpkg.com/en/) to install all of the required dependencies for the ENDRSD app.
 
-🚫Document what you used for testing and why
+```bash
+yarn install
+```
 
-# 4️⃣ Installation Instructions
+When all of the proper dependencies have been installed, create a `.env` file that stores the `JWT_SECRET` and the `REACT_APP_STAGE` environment variables as shown above. This particular `.env` setup will allow you to immediately connect to the staging database instead of having to create a local database.
 
-🚫explain how to install the required dependencies to get this project up and running with yarn and NPM
+```bash
+JWT_SECRET=<your-secret-here>
+REACT_APP_STAGE=staging
+```
+
+Lastly, run `yarn start` to create a build on your local machine that can be viewed at `http://localhost:3000`.
+
+```bash
+yarn start
+```
+
+<p align="center">
+    <img src="https://res.cloudinary.com/endrsd/image/upload/v1568018944/local_host_xpzo9l.png" alt="GIF walk-through" width="600">
+</p>
 
 ## Other Scripts
 
-🚫replace these examples with your own
-
-    * typecheck - runs the TypeScript compiler
+    * format - formats code using 'Prettier' extension
     * build - creates a build of the application
     * start - starts the production server after a build is created
-    * test - runs tests in **tests** directory \* eject - copy the configuration files and dependencies into the project so you have full control over them
+    * test - runs tests in **tests** directory
+    * eject - copy the configuration files and dependencies into the project so you have full control over them -->
 
 # Contributing
 
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
 
 Please note we have a [code of conduct](./CODE_OF_CONDUCT.md). Please follow it in all your interactions with the project.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
 
 ## Issue/Bug Request
 
@@ -194,4 +215,4 @@ These contribution guidelines have been adapted from [this good-Contributing.md-
 
 ## Documentation
 
-See [Backend Documentation](🚫*link to your backend readme here*) for details on the backend of our project.
+See [Backend Documentation](https://github.com/elkton-mc/back-end/blob/master/README.md) for details on the backend of our project.

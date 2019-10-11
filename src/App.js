@@ -1,10 +1,14 @@
 import React from 'react';
+import Greeting from './components/greeting/Greeting';
+import Footer from './components/footer/Footer';
+
 import './App.css';
 
 function App() {
   return (
     <div className='App'>
-      <h1>Hello, World!</h1>
+      <Greeting />
+      <Footer />
     </div>
   );
 }

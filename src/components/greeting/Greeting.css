@@ -1,0 +1,105 @@
+.Greeting-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 85vh;
+  text-align: center;
+  font-size: 1.6rem;
+  color: white;
+}
+
+.welcome-header {
+  font-size: 3.2rem;
+  margin: 0 30px 35px;
+  line-height: 1.2;
+}
+
+.great-things-header {
+  font-size: 2.7rem;
+  margin: 15px 30px;
+}
+
+.check-back-header {
+  font-size: 2.3rem;
+  margin: 25px 30px 15px;
+}
+
+.meantime-header {
+  font-size: 2rem;
+  margin: 20px 30px 0;
+}
+
+.emoji-span {
+  font-size: 3rem;
+  padding: 0 10px;
+}
+
+.pointing-emoji {
+  font-size: 3.5rem;
+  vertical-align: bottom;
+}
+
+.greeting-link-here {
+  text-decoration: none;
+  color: #e60000;
+  padding: 5px;
+}
+
+.greeting-link-here:hover {
+  background-color: #e60000;
+  cursor: pointer;
+  color: white;
+  border-radius: 3px;
+  padding: 5px;
+}
+
+/* The animation */
+
+@keyframes TOOLTIP {
+  from {
+    bottom: 0.5em;
+    background-color: rgba(0, 0, 0, 0);
+    border: 0.05em solid rgba(255, 255, 255, 0);
+    color: rgba(255, 255, 255, 0);
+    box-shadow: 0 0 0 rgba(0, 0, 0, 1);
+  }
+  to {
+    bottom: 1.5em;
+    background-color: rgba(0, 0, 0, 0.85);
+    border: 0.05em solid rgba(255, 255, 255, 1);
+    color: rgba(255, 255, 255, 1);
+    box-shadow: 0.15em 0.15em 0.5em rgba(0, 0, 0, 1);
+  }
+}
+
+/* Style for the tool-tip */
+
+span[role='img'][aria-label],
+span[role='img'][aria-label] {
+  position: relative;
+}
+
+span[role='img'][aria-label]:focus::after,
+span[role='img'][aria-label]:hover::after {
+  position: absolute;
+  display: block;
+  z-index: 1;
+  bottom: 1.5em;
+  left: 0;
+  max-width: 5em;
+  padding: 0.5em 0.75em;
+  border: 0.05em solid rgba(255, 255, 255, 1);
+  border-radius: 0.2em;
+  box-shadow: 0.15em 0.15em 0.5em rgba(0, 0, 0, 1);
+  content: attr(aria-label);
+  background-color: rgba(0, 0, 0, 0.85);
+  color: rgba(255, 255, 255, 1);
+  animation: TOOLTIP 0.1s ease-out 1;
+  font-size: 1.2rem;
+}
+
+@media print {
+  span[role='img'][aria-label]::after {
+    content: ' (' attr(aria-label) ') ';
+  }
+}

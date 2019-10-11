@@ -1,0 +1,43 @@
+.Footer-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  height: 15vh;
+}
+
+.footer-text {
+  font-size: 1.4rem;
+  margin: 0 auto 10px;
+  color: white;
+  margin: 20px;
+}
+
+.footer-link-maintained,
+.footer-link-tico {
+  text-decoration: none;
+  padding: 5px;
+}
+
+.footer-link-maintained {
+  color: #3fc638;
+}
+
+.footer-link-tico {
+  color: blue;
+}
+
+.footer-link-maintained:hover {
+  cursor: pointer;
+  background-color: #3fc638;
+  color: white;
+  border-radius: 3px;
+  padding: 5px;
+}
+
+.footer-link-tico:hover {
+  cursor: pointer;
+  background-color: blue;
+  color: white;
+  border-radius: 3px;
+  padding: 5px;
+}
